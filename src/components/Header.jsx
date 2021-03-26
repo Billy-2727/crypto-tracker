@@ -1,11 +1,12 @@
-import React from "react";
+import React from 'react'
 
 const Header = () => {
-  return (
-    <div>
-      <h1 className="text-center mt-3 mb-4 white">Crypto Tracker</h1>
-    </div>
-  );
-};
+    return (
+        <div>
+          <a href="/"><h1 className='heading'>Crypto Tracker</h1></a>
+        </div>
+    )
+}
 
-export default Header;
+export default Header
+
