@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
     return (
         <div>
-          <a href="/"><h1 className='heading'>Crypto Tracker</h1></a>
+          <h1 className='heading'><a href="/">Crypto Tracker</a></h1>
         </div>
     )
 }
